@@ -18,21 +18,21 @@ The goal is to extract product information based on the schema provided in `Scra
 ## Setup
 
 1.  **Clone the repository:**
-    ```bash
-    git clone <your-repo-url>
-    cd blinkit-scraper
-    ```
+
+    git clone https://github.com/shivansh179/blinkit_data_scrapping.git
+    cd blinkit_data_scrapping
+
 
 2.  **Create a virtual environment (recommended):**
-    ```bash
+
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
+    
 
 3.  **Install the required libraries:**
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+    
 
 ## How to Run
 
@@ -44,5 +44,14 @@ Ensure the following input files are in the same directory as the script:
 Then, execute the script from your terminal:
 
 ```bash
-python blinkit_scraper.py# blinkit_data_scrapping
+python blinkit_data_scrapping.py #blinkit_data_scrapping
+
+Or 
+
+Just run the main python file
 # blinkit_data_scrapping
+
+
+
+
+I have also pushed the main python output file and the log file by executing the code
