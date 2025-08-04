@@ -1,4 +1,4 @@
-# Blinkit Product Scraper
+# Blinkit Product Scrapper
 
 This project contains a Python script to scrape product data from Blinkit's public API for a given set of locations and product categories.
 
