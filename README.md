@@ -45,3 +45,4 @@ Then, execute the script from your terminal:
 
 ```bash
 python blinkit_scraper.py# blinkit_data_scrapping
+# blinkit_data_scrapping
