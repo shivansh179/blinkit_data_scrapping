@@ -1,0 +1,537 @@
+2025-08-04 15:02:13,020 - INFO - --- Starting Blinkit Scraper ---
+2025-08-04 15:02:13,030 - INFO - Loaded 20 locations and 6 categories.
+2025-08-04 15:02:13,031 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:14,524 - INFO - Scraping Page 2 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:16,037 - INFO - Scraping Page 3 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:17,470 - INFO - Scraping Page 4 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:18,911 - INFO - Scraping Page 5 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:20,731 - INFO - Scraping Page 6 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:22,101 - INFO - Scraping Page 7 for 'Bhujia & Mixtures' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:22,476 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 102 products.
+2025-08-04 15:02:22,476 - INFO - --------------------
+2025-08-04 15:02:22,477 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:22,884 - INFO - Finished scraping 'Munchies Gift Packs'. Found 12 products.
+2025-08-04 15:02:22,885 - INFO - --------------------
+2025-08-04 15:02:22,885 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:24,436 - INFO - Scraping Page 2 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:25,806 - INFO - Scraping Page 3 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:27,287 - INFO - Scraping Page 4 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:28,873 - INFO - Scraping Page 5 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:30,448 - INFO - Scraping Page 6 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:31,981 - INFO - Scraping Page 7 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:33,429 - INFO - Scraping Page 8 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:34,868 - INFO - Scraping Page 9 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:36,216 - INFO - Scraping Page 10 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:37,630 - INFO - Scraping Page 11 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:39,060 - INFO - Scraping Page 12 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:40,378 - INFO - Scraping Page 13 for 'Namkeen Snacks' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:41,004 - INFO - Finished scraping 'Namkeen Snacks'. Found 185 products.
+2025-08-04 15:02:41,005 - INFO - --------------------
+2025-08-04 15:02:41,005 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:42,435 - INFO - Scraping Page 2 for 'Papad & Fryums' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:43,759 - INFO - Scraping Page 3 for 'Papad & Fryums' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:45,272 - INFO - Scraping Page 4 for 'Papad & Fryums' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:45,525 - INFO - Finished scraping 'Papad & Fryums'. Found 47 products.
+2025-08-04 15:02:45,526 - INFO - --------------------
+2025-08-04 15:02:45,526 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:47,140 - INFO - Scraping Page 2 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:48,677 - INFO - Scraping Page 3 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:50,269 - INFO - Scraping Page 4 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:51,712 - INFO - Scraping Page 5 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:53,391 - INFO - Scraping Page 6 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:54,826 - INFO - Scraping Page 7 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:56,360 - INFO - Scraping Page 8 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:57,790 - INFO - Scraping Page 9 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:02:59,417 - INFO - Scraping Page 10 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:00,834 - INFO - Scraping Page 11 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:02,839 - INFO - Scraping Page 12 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:04,347 - INFO - Scraping Page 13 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:05,716 - INFO - Scraping Page 14 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:07,214 - INFO - Scraping Page 15 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:08,632 - INFO - Scraping Page 16 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:10,220 - INFO - Scraping Page 17 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:12,030 - INFO - Scraping Page 18 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:13,460 - INFO - Scraping Page 19 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:14,991 - INFO - Scraping Page 20 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:16,358 - INFO - Scraping Page 21 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:17,715 - INFO - Scraping Page 22 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:19,185 - INFO - Scraping Page 23 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:20,871 - INFO - Scraping Page 24 for 'Chips & Crisps' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:21,196 - INFO - Finished scraping 'Chips & Crisps'. Found 357 products.
+2025-08-04 15:03:21,197 - INFO - --------------------
+2025-08-04 15:03:21,197 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:22,557 - INFO - Scraping Page 2 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:24,619 - INFO - Scraping Page 3 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:26,050 - INFO - Scraping Page 4 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:27,424 - INFO - Scraping Page 5 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:28,805 - INFO - Scraping Page 6 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:30,348 - INFO - Scraping Page 7 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:31,786 - INFO - Scraping Page 8 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:33,134 - INFO - Scraping Page 9 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:34,550 - INFO - Scraping Page 10 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:36,084 - INFO - Scraping Page 11 for 'Indian Sweets' at Lat: 28.678051, Lon: 77.314262
+2025-08-04 15:03:36,400 - INFO - Finished scraping 'Indian Sweets'. Found 164 products.
+2025-08-04 15:03:36,400 - INFO - --------------------
+2025-08-04 15:03:36,401 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:37,826 - INFO - Scraping Page 2 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:39,260 - INFO - Scraping Page 3 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:40,650 - INFO - Scraping Page 4 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:41,986 - INFO - Scraping Page 5 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:43,461 - INFO - Scraping Page 6 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,066 - INFO - Scraping Page 7 for 'Bhujia & Mixtures' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,141 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=90&limit=15&exclude_combos=false&l0_cat=1237&l1_cat=1178&last_snippet_type=product_card_snippet_type_2&last_widget_type=product_container&oos_visibility=true&page_index=7&total_entities_processed=6&total_pagination_items=108: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=90&limit=15&exclude_combos=false&l0_cat=1237&l1_cat=1178&last_snippet_type=product_card_snippet_type_2&last_widget_type=product_container&oos_visibility=true&page_index=7&total_entities_processed=6&total_pagination_items=108
+2025-08-04 15:03:45,141 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 90 products.
+2025-08-04 15:03:45,142 - INFO - --------------------
+2025-08-04 15:03:45,143 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,312 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:45,312 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:45,312 - INFO - --------------------
+2025-08-04 15:03:45,313 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,474 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:45,474 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:45,475 - INFO - --------------------
+2025-08-04 15:03:45,475 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,638 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:45,638 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:45,639 - INFO - --------------------
+2025-08-04 15:03:45,639 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,776 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:45,776 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:45,776 - INFO - --------------------
+2025-08-04 15:03:45,776 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.5045, Lon: 77.012
+2025-08-04 15:03:45,934 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:45,934 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:45,935 - INFO - --------------------
+2025-08-04 15:03:45,935 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,085 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:46,086 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:46,086 - INFO - --------------------
+2025-08-04 15:03:46,086 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,236 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:46,237 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:46,237 - INFO - --------------------
+2025-08-04 15:03:46,237 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,375 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:46,375 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:46,375 - INFO - --------------------
+2025-08-04 15:03:46,375 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,509 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:46,509 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:46,509 - INFO - --------------------
+2025-08-04 15:03:46,510 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,658 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:46,658 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:46,658 - INFO - --------------------
+2025-08-04 15:03:46,658 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 22.59643333, Lon: 88.39996667
+2025-08-04 15:03:46,792 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:46,792 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:46,792 - INFO - --------------------
+2025-08-04 15:03:46,793 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:46,973 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:46,973 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:46,973 - INFO - --------------------
+2025-08-04 15:03:46,973 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:47,130 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:47,131 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:47,131 - INFO - --------------------
+2025-08-04 15:03:47,131 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:47,275 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:47,275 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:47,275 - INFO - --------------------
+2025-08-04 15:03:47,276 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:47,427 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:47,427 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:47,427 - INFO - --------------------
+2025-08-04 15:03:47,427 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:47,573 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:47,573 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:47,573 - INFO - --------------------
+2025-08-04 15:03:47,573 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 23.1090018, Lon: 72.57299832
+2025-08-04 15:03:47,740 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:47,740 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:47,740 - INFO - --------------------
+2025-08-04 15:03:47,740 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:47,871 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:47,871 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:47,871 - INFO - --------------------
+2025-08-04 15:03:47,871 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:48,022 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:48,022 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:48,022 - INFO - --------------------
+2025-08-04 15:03:48,022 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:48,183 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:48,184 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:48,184 - INFO - --------------------
+2025-08-04 15:03:48,184 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:48,315 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:48,315 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:48,315 - INFO - --------------------
+2025-08-04 15:03:48,315 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:48,463 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:48,463 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:48,463 - INFO - --------------------
+2025-08-04 15:03:48,464 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 18.95833333, Lon: 72.83333333
+2025-08-04 15:03:48,609 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:48,609 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:48,610 - INFO - --------------------
+2025-08-04 15:03:48,610 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:48,774 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:48,774 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:48,774 - INFO - --------------------
+2025-08-04 15:03:48,774 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:48,917 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:48,917 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:48,917 - INFO - --------------------
+2025-08-04 15:03:48,918 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:49,061 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:49,061 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:49,062 - INFO - --------------------
+2025-08-04 15:03:49,062 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:49,212 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:49,213 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:49,213 - INFO - --------------------
+2025-08-04 15:03:49,213 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:49,361 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:49,361 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:49,361 - INFO - --------------------
+2025-08-04 15:03:49,361 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.7045, Lon: 77.15366667
+2025-08-04 15:03:49,507 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:49,507 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:49,507 - INFO - --------------------
+2025-08-04 15:03:49,507 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:49,680 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:49,681 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:49,681 - INFO - --------------------
+2025-08-04 15:03:49,681 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:49,822 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:49,823 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:49,823 - INFO - --------------------
+2025-08-04 15:03:49,823 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:49,966 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:49,967 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:49,967 - INFO - --------------------
+2025-08-04 15:03:49,967 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:50,114 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:50,114 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:50,114 - INFO - --------------------
+2025-08-04 15:03:50,115 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:50,289 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:50,289 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:50,289 - INFO - --------------------
+2025-08-04 15:03:50,289 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 12.88326667, Lon: 77.5594
+2025-08-04 15:03:50,469 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:50,469 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:50,469 - INFO - --------------------
+2025-08-04 15:03:50,470 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:50,621 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:50,621 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:50,621 - INFO - --------------------
+2025-08-04 15:03:50,621 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:50,775 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:50,775 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:50,775 - INFO - --------------------
+2025-08-04 15:03:50,775 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:50,926 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:50,927 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:50,927 - INFO - --------------------
+2025-08-04 15:03:50,927 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:51,066 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:51,066 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:51,066 - INFO - --------------------
+2025-08-04 15:03:51,066 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:51,220 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:51,221 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:51,221 - INFO - --------------------
+2025-08-04 15:03:51,221 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.7295, Lon: 77.12866667
+2025-08-04 15:03:51,387 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:51,387 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:51,387 - INFO - --------------------
+2025-08-04 15:03:51,387 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:51,532 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:51,533 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:51,533 - INFO - --------------------
+2025-08-04 15:03:51,533 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:51,676 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:51,676 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:51,676 - INFO - --------------------
+2025-08-04 15:03:51,677 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:51,805 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:51,805 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:51,806 - INFO - --------------------
+2025-08-04 15:03:51,806 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:51,977 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:51,977 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:51,978 - INFO - --------------------
+2025-08-04 15:03:51,978 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:52,141 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:52,141 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:52,141 - INFO - --------------------
+2025-08-04 15:03:52,141 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.67571622, Lon: 77.36149677
+2025-08-04 15:03:52,288 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:52,289 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:52,289 - INFO - --------------------
+2025-08-04 15:03:52,289 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:52,433 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:52,433 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:52,433 - INFO - --------------------
+2025-08-04 15:03:52,433 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:52,570 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:52,571 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:52,571 - INFO - --------------------
+2025-08-04 15:03:52,571 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:52,756 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:52,756 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:52,756 - INFO - --------------------
+2025-08-04 15:03:52,756 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:52,918 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:52,919 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:52,919 - INFO - --------------------
+2025-08-04 15:03:52,919 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:53,076 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:53,076 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:53,076 - INFO - --------------------
+2025-08-04 15:03:53,077 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.3501, Lon: 77.31673333
+2025-08-04 15:03:53,207 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:53,208 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:53,208 - INFO - --------------------
+2025-08-04 15:03:53,208 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:53,349 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:53,350 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:53,350 - INFO - --------------------
+2025-08-04 15:03:53,350 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:53,533 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:53,533 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:53,533 - INFO - --------------------
+2025-08-04 15:03:53,533 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:53,671 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:53,671 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:53,671 - INFO - --------------------
+2025-08-04 15:03:53,671 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:53,815 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:53,815 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:53,815 - INFO - --------------------
+2025-08-04 15:03:53,816 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:53,973 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:53,973 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:53,973 - INFO - --------------------
+2025-08-04 15:03:53,973 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.59086667, Lon: 77.3054
+2025-08-04 15:03:54,128 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:54,128 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:54,129 - INFO - --------------------
+2025-08-04 15:03:54,129 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:54,262 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:54,262 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:54,262 - INFO - --------------------
+2025-08-04 15:03:54,262 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:54,427 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:54,427 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:54,428 - INFO - --------------------
+2025-08-04 15:03:54,428 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:54,599 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:54,599 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:54,599 - INFO - --------------------
+2025-08-04 15:03:54,599 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:54,755 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:54,755 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:54,755 - INFO - --------------------
+2025-08-04 15:03:54,755 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:54,919 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:54,920 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:54,920 - INFO - --------------------
+2025-08-04 15:03:54,920 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.49553604, Lon: 77.51297417
+2025-08-04 15:03:55,049 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:55,050 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:55,050 - INFO - --------------------
+2025-08-04 15:03:55,050 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,178 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:55,178 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:55,178 - INFO - --------------------
+2025-08-04 15:03:55,178 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,321 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:55,321 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:55,321 - INFO - --------------------
+2025-08-04 15:03:55,322 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,511 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:55,511 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:55,511 - INFO - --------------------
+2025-08-04 15:03:55,512 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,669 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:55,669 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:55,669 - INFO - --------------------
+2025-08-04 15:03:55,669 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,823 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:55,824 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:55,824 - INFO - --------------------
+2025-08-04 15:03:55,824 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.44176667, Lon: 77.3084
+2025-08-04 15:03:55,974 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:55,974 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:55,974 - INFO - --------------------
+2025-08-04 15:03:55,975 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,136 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:56,136 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:56,136 - INFO - --------------------
+2025-08-04 15:03:56,137 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,285 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:56,285 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:56,286 - INFO - --------------------
+2025-08-04 15:03:56,286 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,437 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:56,437 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:56,437 - INFO - --------------------
+2025-08-04 15:03:56,437 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,581 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:56,582 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:56,582 - INFO - --------------------
+2025-08-04 15:03:56,582 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,749 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:56,749 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:56,749 - INFO - --------------------
+2025-08-04 15:03:56,749 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.48783333, Lon: 77.09533333
+2025-08-04 15:03:56,904 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:56,904 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:56,904 - INFO - --------------------
+2025-08-04 15:03:56,905 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,080 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:57,080 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:57,080 - INFO - --------------------
+2025-08-04 15:03:57,081 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,226 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:57,226 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:57,226 - INFO - --------------------
+2025-08-04 15:03:57,226 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,397 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:57,398 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:57,398 - INFO - --------------------
+2025-08-04 15:03:57,398 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,542 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:57,542 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:57,542 - INFO - --------------------
+2025-08-04 15:03:57,543 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,721 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:57,721 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:57,721 - INFO - --------------------
+2025-08-04 15:03:57,721 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 12.93326667, Lon: 77.61773333
+2025-08-04 15:03:57,865 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:57,865 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:57,865 - INFO - --------------------
+2025-08-04 15:03:57,865 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,036 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:58,036 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:58,037 - INFO - --------------------
+2025-08-04 15:03:58,037 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,183 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:58,183 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:58,183 - INFO - --------------------
+2025-08-04 15:03:58,183 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,363 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:58,363 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:58,364 - INFO - --------------------
+2025-08-04 15:03:58,364 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,568 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:58,569 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:58,569 - INFO - --------------------
+2025-08-04 15:03:58,570 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,718 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:58,718 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:58,719 - INFO - --------------------
+2025-08-04 15:03:58,719 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 13.00826667, Lon: 77.64273333
+2025-08-04 15:03:58,873 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:58,873 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:58,873 - INFO - --------------------
+2025-08-04 15:03:58,873 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,034 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:59,034 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:59,035 - INFO - --------------------
+2025-08-04 15:03:59,035 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,183 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:03:59,184 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:03:59,184 - INFO - --------------------
+2025-08-04 15:03:59,184 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,324 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:03:59,324 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:03:59,324 - INFO - --------------------
+2025-08-04 15:03:59,325 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,484 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:03:59,485 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:03:59,485 - INFO - --------------------
+2025-08-04 15:03:59,485 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,633 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:03:59,633 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:03:59,633 - INFO - --------------------
+2025-08-04 15:03:59,634 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 28.4751, Lon: 77.4334
+2025-08-04 15:03:59,773 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:03:59,773 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:03:59,773 - INFO - --------------------
+2025-08-04 15:03:59,773 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:03:59,929 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:03:59,929 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:03:59,930 - INFO - --------------------
+2025-08-04 15:03:59,930 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:04:00,067 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:04:00,068 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:04:00,068 - INFO - --------------------
+2025-08-04 15:04:00,068 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:04:00,213 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:04:00,214 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:04:00,214 - INFO - --------------------
+2025-08-04 15:04:00,214 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:04:00,372 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:04:00,372 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:04:00,373 - INFO - --------------------
+2025-08-04 15:04:00,373 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:04:00,511 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:04:00,512 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:04:00,512 - INFO - --------------------
+2025-08-04 15:04:00,512 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 26.85653333, Lon: 75.71283333
+2025-08-04 15:04:00,670 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:04:00,671 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:04:00,671 - INFO - --------------------
+2025-08-04 15:04:00,671 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:00,828 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:04:00,828 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:04:00,828 - INFO - --------------------
+2025-08-04 15:04:00,829 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:00,980 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:04:00,980 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:04:00,980 - INFO - --------------------
+2025-08-04 15:04:00,980 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:01,144 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:04:01,144 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:04:01,144 - INFO - --------------------
+2025-08-04 15:04:01,144 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:01,295 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:04:01,295 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:04:01,295 - INFO - --------------------
+2025-08-04 15:04:01,296 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:01,434 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:04:01,434 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:04:01,434 - INFO - --------------------
+2025-08-04 15:04:01,434 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 26.8982, Lon: 75.8295
+2025-08-04 15:04:01,569 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:04:01,569 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:04:01,569 - INFO - --------------------
+2025-08-04 15:04:01,570 - INFO - Scraping Page 1 for 'Bhujia & Mixtures' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:01,711 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1178&page_index=1
+2025-08-04 15:04:01,711 - INFO - Finished scraping 'Bhujia & Mixtures'. Found 0 products.
+2025-08-04 15:04:01,711 - INFO - --------------------
+2025-08-04 15:04:01,711 - INFO - Scraping Page 1 for 'Munchies Gift Packs' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:01,872 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=1694&page_index=1
+2025-08-04 15:04:01,872 - INFO - Finished scraping 'Munchies Gift Packs'. Found 0 products.
+2025-08-04 15:04:01,872 - INFO - --------------------
+2025-08-04 15:04:01,872 - INFO - Scraping Page 1 for 'Namkeen Snacks' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:02,039 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=29&page_index=1
+2025-08-04 15:04:02,040 - INFO - Finished scraping 'Namkeen Snacks'. Found 0 products.
+2025-08-04 15:04:02,040 - INFO - --------------------
+2025-08-04 15:04:02,040 - INFO - Scraping Page 1 for 'Papad & Fryums' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:02,216 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=80&page_index=1
+2025-08-04 15:04:02,216 - INFO - Finished scraping 'Papad & Fryums'. Found 0 products.
+2025-08-04 15:04:02,217 - INFO - --------------------
+2025-08-04 15:04:02,217 - INFO - Scraping Page 1 for 'Chips & Crisps' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:02,354 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=1237&l1_cat=940&page_index=1
+2025-08-04 15:04:02,354 - INFO - Finished scraping 'Chips & Crisps'. Found 0 products.
+2025-08-04 15:04:02,354 - INFO - --------------------
+2025-08-04 15:04:02,354 - INFO - Scraping Page 1 for 'Indian Sweets' at Lat: 18.54316667, Lon: 73.914
+2025-08-04 15:04:02,531 - ERROR - Request failed for URL https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1: 429 Client Error: Too Many Requests for url: https://blinkit.com/v1/layout/listing_widgets?offset=0&limit=24&l0_cat=9&l1_cat=943&page_index=1
+2025-08-04 15:04:02,532 - INFO - Finished scraping 'Indian Sweets'. Found 0 products.
+2025-08-04 15:04:02,532 - INFO - --------------------
+2025-08-04 15:04:02,532 - INFO - --- Scraping Complete. Data saved to blinkit_scraped_data.csv ---
